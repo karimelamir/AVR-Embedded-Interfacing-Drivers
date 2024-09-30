@@ -1,9 +1,4 @@
-/*
- * LCD_Interface.h
- *
- *  Created on: Sep 15, 2023
- *      Author: abdelrahmanhossam
- */
+
 
 #ifndef INCLUDE_HAL_LCD_LCD_INTERFACE_H_
 #define INCLUDE_HAL_LCD_LCD_INTERFACE_H_
