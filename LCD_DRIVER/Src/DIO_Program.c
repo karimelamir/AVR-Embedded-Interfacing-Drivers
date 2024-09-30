@@ -1,9 +1,3 @@
-/*
- * DIO_Program.c
- *
- *  Created on: Sep 8, 2023
- *      Author: abdelrahmanhossam
- */
 
 
 // Include LIB
