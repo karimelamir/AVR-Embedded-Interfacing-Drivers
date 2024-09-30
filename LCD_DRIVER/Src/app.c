@@ -1,9 +1,4 @@
-/*
- * app.c
- *
- *  Created on: Sep 1, 2023
- *      Author: abdelrahmanhossam
- */
+
 
 
 #include <util/delay.h>
