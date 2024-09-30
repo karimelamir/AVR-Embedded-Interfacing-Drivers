@@ -1,9 +1,4 @@
-/*
- * DIO_Interface.h
- *
- *  Created on: Sep 9, 2023
- *      Author: abdelrahmanhossam
- */
+
 
 #ifndef INCLUDE_MCAL_DIO_DIO_INTERFACE_H_
 #define INCLUDE_MCAL_DIO_DIO_INTERFACE_H_
