@@ -1,9 +1,4 @@
-/*
- * LCD_Program.c
- *
- *  Created on: Sep 15, 2023
- *      Author: abdelrahmanhossam
- */
+
 
 #include "../Include/LIB/STD_TYPES.h"
 #include "../Include/LIB/BIT_MATH.h"
