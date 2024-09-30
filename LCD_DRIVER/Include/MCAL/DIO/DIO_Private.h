@@ -1,9 +1,4 @@
-/*
- * DIO_Private.h
- *
- *  Created on: Sep 8, 2023
- *      Author: abdelrahmanhossam
- */
+
 
 #ifndef INCLUDE_MCAL_DIO_DIO_PRIVATE_H_
 #define INCLUDE_MCAL_DIO_DIO_PRIVATE_H_
